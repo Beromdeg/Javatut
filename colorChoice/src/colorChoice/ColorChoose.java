@@ -1,3 +1,5 @@
+//sime app to play around
+//testing my commits
 package colorChoice;
 import java.awt.*;	//for JPanel
 import java.awt.event.*;
